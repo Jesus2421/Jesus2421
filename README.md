@@ -22,9 +22,9 @@ Practical experience in programming microcontrollers and microprocessors for spe
 
 <hr width="36%" <br>
 
-## 🌐 Explorando el Futuro
+## 🌐 Exploring the Future
 
-Constantemente actualizándome en nuevas tecnologías para enfrentar los desafíos del mundo digital en constante evolución. ¡Listo para contribuir y aprender!
+Constantly updating myself on new technologies to face the challenges of the constantly evolving digital world. Ready to contribute and learn!
 
 
 <!--
