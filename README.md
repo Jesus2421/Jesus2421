@@ -9,7 +9,7 @@
 
 ## 💡 Experience
 
-- Structured Programming:Solid experience in implementing algorithms and control structures.
+- Structured Programming: Solid experience in implementing algorithms and control structures.
   Mastery of languages such as C for the development of structured software.
 - Object-oriented programming: Extensive experience in the design and development of object-based systems.
 Proficiency in languages such as Java and C++ for creating object-oriented applications.
