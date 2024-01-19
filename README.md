@@ -1,5 +1,5 @@
 # Hi my name is Jesus Campos 👋
-<img src="https://media.licdn.com/dms/image/C4D16AQEjJHjDwWBbrQ/profile-displaybackgroundimage-shrink_350_1400/0/1652372050116?e=1705536000&v=beta&t=2vmMqahZEEyh7tzuKWHym035TBjL5Pkrhm5g5ilBnWk" alt="sumyt29"> 
+<img scr="https://media.licdn.com/dms/image/C4D16AQEjJHjDwWBbrQ/profile-displaybackgroundimage-shrink_200_800/0/1652372050116?e=2147483647&v=beta&t=9cBE_XVr6W0Wv3EEs_ff0UB51jip0MZqYd07NzY6NZg">
 
 ## 👨‍💻 Systems engineer
 
