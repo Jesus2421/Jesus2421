@@ -1,5 +1,5 @@
 # Hi my name is Jesus Campos 👋
-<img src="https://media.licdn.com/dms/image/C4D16AQEjJHjDwWBbrQ/profile-displaybackgroundimage-shrink_350_1400/0/1652372050116?e=1705536000&v=beta&t=2vmMqahZEEyh7tzuKWHym035TBjL5Pkrhm5g5ilBnWk" alt="banner that says Kelechi Precious Nwachukwu - code newbie always. content curator. contributing for good alongside an oil paint illustration of Kelechi"> 
+<img src="https://media.licdn.com/dms/image/C4D16AQEjJHjDwWBbrQ/profile-displaybackgroundimage-shrink_350_1400/0/1652372050116?e=1705536000&v=beta&t=2vmMqahZEEyh7tzuKWHym035TBjL5Pkrhm5g5ilBnWk" alt="sumyt29"> 
 
 ## 👨‍💻 Systems engineer
 
