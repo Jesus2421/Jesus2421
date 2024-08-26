@@ -13,14 +13,9 @@ In early 2020, I proudly completed my degree as a Systems Engineer, marking the 
 ## 💡 Professional Experience
 
 ### Structured Programming.
-    - Skills: Algorithm implementation, control structures
-    - Languages:Pascal y C
-    - Experience: Developed structured software solutions with a strong focus on efficiency and reliability.
-  Mastery of languages such as C for the development of structured software.
-- Object-oriented programming: Extensive experience in the design and development of object-based systems.
-Proficiency in languages such as Java and C++ for creating object-oriented applications.
-- Embedded Systems Programming:Advanced knowledge in software development for embedded systems.
-Practical experience in programming microcontrollers and microprocessors for specific applications.
+- Skills: Algorithm implementation, control structures
+- Languages:Pascal y C
+- Experience: Developed structured software solutions with a strong focus on efficiency and reliability.
 
 <br>
 <h3 align="left">Languages and Tools:</h3>
