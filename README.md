@@ -10,9 +10,12 @@ I am a professional Systems Engineer with nearly ten years of experience in the 
 
 In early 2020, I proudly completed my degree as a Systems Engineer, marking the culmination of years of dedication and effort. In 2021, I further specialized by earning a scholarship to pursue a Master's degree in Mechatronics, focusing on automation..
 
-## 💡 Experience
+## 💡 Professional Experience
 
-- Structured Programming: Solid experience in implementing algorithms and control structures.
+### Structured Programming.
+    - Skills: Algorithm implementation, control structures
+    - Languages:Pascal y C
+    - Experience: Developed structured software solutions with a strong focus on efficiency and reliability.
   Mastery of languages such as C for the development of structured software.
 - Object-oriented programming: Extensive experience in the design and development of object-based systems.
 Proficiency in languages such as Java and C++ for creating object-oriented applications.
