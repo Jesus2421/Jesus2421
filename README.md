@@ -1,14 +1,14 @@
-# Hi my name is Jesus Campos 👋
+# Hi, I'm Jesus Campos 👋
 <img src="https://media.licdn.com/dms/image/C4D16AQEjJHjDwWBbrQ/profile-displaybackgroundimage-shrink_200_800/0/1652372050116?e=2147483647&v=beta&t=9cBE_XVr6W0Wv3EEs_ff0UB51jip0MZqYd07NzY6NZg">
 
 | [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jesus-miguel-campos-correia-504b73138/) | [![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/campos_soft) | [![Instagram](https://img.shields.io/badge/Instagram-983475?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/campostechno) | [![YouTube](https://img.shields.io/badge/YouTube-ff2301?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCXFmv1ZKrVCKUl_p1bi5AUQ) |
 |---|---|---|---|
 
-## 👨‍💻 Systems engineer
+## 👨‍💻 About Me
 
-- I am a professional Systems Engineer with a solid experience of approximately ten years in the field. My career began in 2013 at the Universidad Bicentenaria de Aragua, Venezuela, where I embarked on a journey of learning and growth in the field of engineering.             
-- After years of dedication and effort, I officially completed my career as a Systems Engineer in early 2020. This achievement represented the result of my commitment and passion for technology and problem solving.
-- In 2021, I obtained a scholarship that allowed me to study a master's degree in Mechatronics, acquiring a specialized profile in automation.
+I am a professional Systems Engineer with nearly ten years of experience in the field. My journey in technology began in 2013 at the Universidad Bicentenaria de Aragua in Venezuela, where I discovered my passion for solving complex problems through engineering.
+
+In early 2020, I proudly completed my degree as a Systems Engineer, marking the culmination of years of dedication and effort. In 2021, I further specialized by earning a scholarship to pursue a Master's degree in Mechatronics, focusing on automation..
 
 ## 💡 Experience
 
