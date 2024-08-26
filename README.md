@@ -34,8 +34,7 @@ In early 2020, I proudly completed my degree as a Systems Engineer, marking the 
 
 ## 🌐 Exploring the Future
 
-Constantly updating myself on new technologies to face the challenges of the constantly evolving digital world. Ready to contribute and learn!
-
+I'm constantly updating my skills and knowledge to stay ahead in the fast-evolving digital landscape. Currently, I'm exploring the latest trends in automation, AI, and IoT, and I'm eager to contribute to innovative projects that push the boundaries of technology.
 
 <!--
 **Jesus2421/Jesus2421** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
