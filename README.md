@@ -6,7 +6,7 @@
 
 ## 👨‍💻 About Me
 
-I am a professional Systems Engineer with nearly ten years of experience in the field. My journey in technology began in 2013 at the Universidad Bicentenaria de Aragua in Venezuela, where I discovered my passion for solving complex problems through engineering.
+I am a professional Systems Engineer with nearly ten years of experience in the field. My journey in technology began in 2013 at the Bicentennial University of Aragua in Venezuela, where I discovered my passion for solving complex problems through engineering.
 
 In early 2020, I proudly completed my degree as a Systems Engineer, marking the culmination of years of dedication and effort. In 2021, I further specialized by earning a scholarship to pursue a Master's degree in Mechatronics, focusing on automation..
 
