@@ -35,7 +35,7 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jesus2421&show_icons=true&locale=en&layout=compact" alt="jesus2421" /></p>
 
-<p>&nbsp;<img align="center" src="[https://www.instagram.com/campostechno]" alt="jesus2421" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jesus2421&show_icons=true&locale=en" alt="jesus2421" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jesus2421&" alt="jesus2421" /></p>
 
