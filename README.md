@@ -11,7 +11,7 @@
 
 <p align="left"> <a href="https://twitter.com/campos_soft" target="blank"><img src="https://img.shields.io/twitter/follow/campos_soft?logo=twitter&style=for-the-badge" alt="campos_soft" /></a> </p>
 
-- 🔭 I’m currently working on [NewsLens](https://github.com/Jesus2421/NewsLens)
+- 🔭 I’m currently working on [NewsLens](https://github.com/Jesus2421/LibrePensadores)
 
 - 🌱 I’m currently learning **tensorflow, django, angular**
 
